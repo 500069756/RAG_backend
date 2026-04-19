@@ -9,7 +9,7 @@ services:
     build:
       command: pip install -r requirements.txt
     
-    startCommand: python app.py
+    startCommand: gunicorn --workers 4 --worker-class sync --timeout 120 --bind 0.0.0.0:${PORT:-5000} app:app
     
     envVars:
       - key: GROQ_API_KEY
@@ -38,7 +38,7 @@ services:
     build:
       command: "echo 'Frontend static files ready'"
     
-    startCommand: python serve.py --port 3000
+    startCommand: python serve.py --port ${PORT:-3000}
     
     envVars:
       - key: PORT

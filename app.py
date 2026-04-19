@@ -85,8 +85,10 @@ def create_app() -> Flask:
     return app
 
 
+# Create app at module level for gunicorn
+app = create_app()
+
 if __name__ == "__main__":
-    app = create_app()
     port = int(os.environ.get("PORT", 5000))
     try:
         from waitress import serve as waitress_serve
