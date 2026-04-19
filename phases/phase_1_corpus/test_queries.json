@@ -1,0 +1,24 @@
+{
+  "queries": [
+    {
+      "query": "What is the expense ratio of HDFC Top 100 Fund?",
+      "expected_scheme": "HDFC Top 100 Fund"
+    },
+    {
+      "query": "What is the lock-in period for ELSS funds?",
+      "expected_scheme": "HDFC ELSS Tax Saver"
+    },
+    {
+      "query": "How do I download my mutual fund account statement?",
+      "expected_scheme": null
+    },
+    {
+      "query": "What is the exit load for HDFC Flexi Cap Fund?",
+      "expected_scheme": "HDFC Flexi Cap Fund"
+    },
+    {
+      "query": "What is the minimum SIP amount?",
+      "expected_scheme": null
+    }
+  ]
+}

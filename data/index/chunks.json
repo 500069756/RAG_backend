@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "hdfc-top100-overview",
+    "text": "HDFC Top 100 Fund is an open-ended equity scheme predominantly investing in large cap stocks. The fund aims to provide long-term capital appreciation by investing in a portfolio of equity and equity-related instruments of top 100 companies by market capitalisation. The fund is categorized as a large-cap fund under SEBI classification.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-top-100-fund",
+    "scheme_name": "HDFC Top 100 Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-top100-expense",
+    "text": "The expense ratio of HDFC Top 100 Fund - Direct Plan is 1.07% and for the Regular Plan it is 1.62%. The expense ratio includes management fees, administrative costs, and other operational expenses. A lower expense ratio means more of your investment goes toward actual returns rather than fund management costs.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-top-100-fund-direct-growth",
+    "scheme_name": "HDFC Top 100 Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-top100-nav-aum",
+    "text": "HDFC Top 100 Fund Direct Growth has a current NAV of approximately Rs 1,050. The fund's Assets Under Management (AUM) is approximately Rs 35,500 crore. The fund's benchmark index is the Nifty 100 Total Return Index.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-top-100-fund-direct-growth",
+    "scheme_name": "HDFC Top 100 Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-top100-investment",
+    "text": "The minimum investment amount for HDFC Top 100 Fund is Rs 5,000 for lump sum and Rs 500 for SIP (Systematic Investment Plan). The minimum additional investment is Rs 1,000 for lump sum. SIP can be started on any date of the month.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-top-100-fund",
+    "scheme_name": "HDFC Top 100 Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-top100-exit-load",
+    "text": "HDFC Top 100 Fund charges an exit load of 1% if units are redeemed or switched within 1 year from the date of allotment. No exit load is charged if units are redeemed after 1 year. Exit load is deducted from the applicable NAV at the time of redemption.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-top-100-fund",
+    "scheme_name": "HDFC Top 100 Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-top100-fund-manager",
+    "text": "HDFC Top 100 Fund is managed by Rahul Baijal and Dhruv Muchhal. The fund was launched on October 11, 1996 and has a long track record of over 29 years. It is one of the oldest equity mutual funds in India.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-top-100-fund",
+    "scheme_name": "HDFC Top 100 Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-flexicap-overview",
+    "text": "HDFC Flexi Cap Fund is an open-ended dynamic equity scheme investing across large cap, mid cap, and small cap stocks. The fund aims for long-term capital appreciation by investing in equity and equity-related securities across market capitalisation. This gives the fund manager the flexibility to invest in companies of all sizes.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-flexi-cap-fund",
+    "scheme_name": "HDFC Flexi Cap Fund",
+    "document_type": "factsheet",
+    "category": "flexi-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-flexicap-expense",
+    "text": "The expense ratio of HDFC Flexi Cap Fund - Direct Plan is 0.77% and for the Regular Plan it is 1.47%. The fund has AUM of approximately Rs 65,000 crore making it one of the largest flexi-cap funds in India. The benchmark index is the Nifty 500 Total Return Index.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-flexi-cap-fund",
+    "scheme_name": "HDFC Flexi Cap Fund",
+    "document_type": "factsheet",
+    "category": "flexi-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-flexicap-investment",
+    "text": "The minimum investment for HDFC Flexi Cap Fund is Rs 5,000 for lump sum and Rs 500 for SIP. The exit load is 1% if redeemed within 1 year. The fund invests in a diversified portfolio typically holding 50-70 stocks across different sectors and market capitalizations.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-flexi-cap-fund",
+    "scheme_name": "HDFC Flexi Cap Fund",
+    "document_type": "factsheet",
+    "category": "flexi-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-midcap-overview",
+    "text": "HDFC Mid Cap Opportunities Fund is an open-ended equity scheme predominantly investing in mid cap stocks. The fund aims to provide long-term capital appreciation by investing in mid cap companies ranked 101st to 250th in terms of market capitalisation. The benchmark is the Nifty Midcap 150 Total Return Index.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "scheme_name": "HDFC Mid Cap Fund",
+    "document_type": "factsheet",
+    "category": "mid-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-midcap-expense",
+    "text": "The expense ratio of HDFC Mid Cap Opportunities Fund - Direct Plan is 0.75% and Regular Plan is 1.43%. The fund has AUM of approximately Rs 75,000 crore. The minimum investment is Rs 5,000 for lump sum and Rs 500 for SIP. The exit load is 1% for redemption within 1 year.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "scheme_name": "HDFC Mid Cap Fund",
+    "document_type": "factsheet",
+    "category": "mid-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-elss-overview",
+    "text": "HDFC ELSS Tax Saver Fund is an open-ended equity linked savings scheme with a statutory lock-in of 3 years. It qualifies for tax deduction under Section 80C of the Income Tax Act up to Rs 1.5 lakh per financial year. The fund invests predominantly in equity and equity-related instruments.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "scheme_name": "HDFC ELSS Tax Saver",
+    "document_type": "factsheet",
+    "category": "elss",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-elss-expense",
+    "text": "The expense ratio of HDFC ELSS Tax Saver Fund - Direct Plan is 1.07% and Regular Plan is 1.78%. The fund has a mandatory lock-in period of 3 years from the date of investment. No exit load is applicable since the lock-in itself serves that purpose. The AUM is approximately Rs 16,000 crore.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "scheme_name": "HDFC ELSS Tax Saver",
+    "document_type": "factsheet",
+    "category": "elss",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-liquid-overview",
+    "text": "HDFC Liquid Fund is an open-ended liquid scheme investing in debt and money market instruments with maturity up to 91 days. It is suitable for parking short-term surplus funds. The fund aims to provide reasonable returns while maintaining high liquidity and low risk.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/debt/hdfc-liquid-fund",
+    "scheme_name": "HDFC Liquid Fund",
+    "document_type": "factsheet",
+    "category": "debt",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-liquid-expense",
+    "text": "The expense ratio of HDFC Liquid Fund - Direct Plan is 0.20% and Regular Plan is 0.35%. There is no exit load if redeemed after 7 days. For redemption within 7 days, graded exit load applies. The minimum investment is Rs 5,000 for lump sum. The AUM is approximately Rs 90,000 crore.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/debt/hdfc-liquid-fund",
+    "scheme_name": "HDFC Liquid Fund",
+    "document_type": "factsheet",
+    "category": "debt",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-equity-overview",
+    "text": "HDFC Equity Fund (now HDFC Flexi Cap Fund after recategorisation) was one of the flagship equity funds from HDFC Mutual Fund. Investors looking for the old HDFC Equity Fund should note it has been renamed to HDFC Flexi Cap Fund following SEBI's mutual fund categorisation norms.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "scheme_name": "HDFC Equity Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-focused-overview",
+    "text": "HDFC Focused 30 Fund is an open-ended equity scheme investing in a maximum of 30 stocks across market capitalisations. The concentrated portfolio approach aims to generate alpha by holding high-conviction bets. The expense ratio of Direct Plan is 0.65% and Regular Plan is 1.46%.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+    "scheme_name": "HDFC Focused Fund",
+    "document_type": "factsheet",
+    "category": "focused",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-largecap-overview",
+    "text": "HDFC Large Cap Fund is an open-ended equity scheme predominantly investing in large cap stocks. It invests at least 80% of total assets in equity and equity-related instruments of large cap companies. The expense ratio of Direct Plan is 1.04% and Regular Plan is 1.68%. AUM is approximately Rs 18,000 crore.",
+    "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+    "scheme_name": "HDFC Large Cap Fund",
+    "document_type": "factsheet",
+    "category": "large-cap",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "hdfc-nifty50-overview",
+    "text": "HDFC Index Fund - Nifty 50 Plan is a passively managed fund that replicates the Nifty 50 index. The expense ratio is very low at 0.20% for Direct Plan. It is suitable for investors who want market returns without active fund management. The minimum investment is Rs 5,000 for lump sum and Rs 500 for SIP.",
+    "source_url": "https://www.hdfcfund.com/mutual-fund/other/hdfc-index-fund-nifty-50-plan",
+    "scheme_name": "HDFC Nifty 50 Index Fund",
+    "document_type": "factsheet",
+    "category": "index",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-what-is-nav",
+    "text": "NAV stands for Net Asset Value. It represents the per-unit market value of a mutual fund scheme. NAV is calculated by dividing the total value of all the securities in the portfolio plus cash, minus any liabilities, by the total number of units outstanding. NAV is declared at the end of every business day by all mutual funds.",
+    "source_url": "https://www.hdfcfund.com/information/faq",
+    "scheme_name": "General",
+    "document_type": "faq",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-what-is-sip",
+    "text": "SIP stands for Systematic Investment Plan. It allows investors to invest a fixed amount regularly (usually monthly) in a mutual fund scheme. SIP helps in rupee cost averaging and disciplined investing. The minimum SIP amount for most HDFC mutual funds is Rs 500 per month. SIP can be started online through the HDFC MF website or app.",
+    "source_url": "https://www.hdfcfund.com/information/faq/sip-related",
+    "scheme_name": "General",
+    "document_type": "faq",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-sip-benefits",
+    "text": "Benefits of SIP include: (1) Rupee cost averaging — you buy more units when prices are low and fewer when prices are high, (2) Power of compounding — regular investments grow over time, (3) Disciplined investing — automatic deductions ensure regular investment, (4) Flexibility — you can increase, decrease, pause, or stop SIP anytime, (5) No need to time the market.",
+    "source_url": "https://www.hdfcfund.com/information/faq/sip-related",
+    "scheme_name": "General",
+    "document_type": "faq",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-what-is-expense-ratio",
+    "text": "Expense ratio is the annual fee charged by a mutual fund to manage your investment, expressed as a percentage of the fund's average AUM. It includes fund management fees, administrative costs, distribution fees, and other operational expenses. SEBI has capped the maximum expense ratio based on AUM size. Direct plans have lower expense ratios than regular plans because they do not include distributor commissions.",
+    "source_url": "https://www.hdfcfund.com/information/faq",
+    "scheme_name": "General",
+    "document_type": "faq",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-what-is-exit-load",
+    "text": "Exit load is a fee charged by mutual funds when investors redeem or sell their units before a specified period. For most equity funds, an exit load of 1% is charged if units are redeemed within 1 year from the date of allotment. Liquid funds may have a graded exit load for redemption within 7 days. ELSS funds have a mandatory 3-year lock-in period with no exit load.",
+    "source_url": "https://www.hdfcfund.com/information/faq",
+    "scheme_name": "General",
+    "document_type": "faq",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-kyc-requirements",
+    "text": "KYC (Know Your Customer) is mandatory for investing in mutual funds in India. Investors need to complete KYC by submitting PAN card, address proof (Aadhaar, passport, or utility bill), and a passport-size photograph. KYC can be completed online through the KRA (KYC Registration Agency) or at any mutual fund office. Once KYC is done with one fund house, it is valid across all mutual funds.",
+    "source_url": "https://www.amfiindia.com/investor-corner/knowledge-center.html",
+    "scheme_name": "General",
+    "document_type": "guide",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-types-of-mf",
+    "text": "Mutual funds in India are classified by SEBI into the following categories: (1) Equity Funds — invest primarily in stocks (large-cap, mid-cap, small-cap, flexi-cap, multi-cap, ELSS, sectoral, thematic), (2) Debt Funds — invest in fixed income securities (liquid, overnight, ultra short, short duration, corporate bond, gilt), (3) Hybrid Funds — invest in both equity and debt (balanced advantage, aggressive hybrid, conservative hybrid), (4) Solution-Oriented Funds — for specific goals (retirement, children's education), (5) Other Funds — index funds, ETFs, fund of funds.",
+    "source_url": "https://www.amfiindia.com/investor-corner/knowledge-center.html",
+    "scheme_name": "General",
+    "document_type": "guide",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-sebi-regulations",
+    "text": "SEBI (Securities and Exchange Board of India) regulates all mutual funds in India. Key SEBI regulations include: mutual fund categorisation norms (each fund must belong to a specific category), expense ratio caps, requirement for benchmark comparison, mandatory risk-o-meter labelling, and investor protection guidelines. AMFI (Association of Mutual Funds in India) is the industry body that works under SEBI's oversight.",
+    "source_url": "https://investor.sebi.gov.in/pdf/Mutual%20Fund.pdf",
+    "scheme_name": "General",
+    "document_type": "guide",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-how-to-redeem",
+    "text": "To redeem mutual fund units, you can: (1) Log in to the fund house website or app and place a redemption request, (2) Submit a physical redemption form at the nearest branch or CAMS/Karvy office, (3) Use online platforms like MFCentral. Redemption proceeds for equity funds are credited within T+3 working days. For liquid and overnight funds, proceeds are available within T+1 working day.",
+    "source_url": "https://www.hdfcfund.com/information/faq/redemption-related",
+    "scheme_name": "General",
+    "document_type": "faq",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-direct-vs-regular",
+    "text": "Direct plans are purchased directly from the fund house without any intermediary, so they have a lower expense ratio. Regular plans are purchased through distributors or advisors who earn a commission, resulting in a higher expense ratio. Over long periods, the difference in expense ratio leads to significantly different returns. For example, a 0.5% difference in expense ratio can result in several lakhs of difference over 20 years.",
+    "source_url": "https://www.amfiindia.com/investor-corner/knowledge-center.html",
+    "scheme_name": "General",
+    "document_type": "guide",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-account-statement",
+    "text": "You can get your mutual fund account statement (CAS - Consolidated Account Statement) from: (1) CAMS website (www.camsonline.com) — for CAMS-serviced funds, (2) KFintech website (www.kfintech.com) — for KFintech-serviced funds, (3) MFCentral (www.mfcentral.com) — consolidated across all fund houses, (4) By sending an email to the fund house. HDFC Mutual Fund statements can also be downloaded from the HDFC MF website after login.",
+    "source_url": "https://www.hdfcfund.com/information/how-to-get-account-statement",
+    "scheme_name": "General",
+    "document_type": "guide",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-risk-in-mutual-funds",
+    "text": "Mutual fund investments are subject to market risks. Different categories carry different risk levels: Equity funds carry high risk but offer high return potential. Debt funds carry moderate risk with relatively stable returns. Liquid funds carry very low risk and are suitable for short-term parking. SEBI mandates a risk-o-meter for every fund showing risk levels from Low to Very High. Past performance does not guarantee future results.",
+    "source_url": "https://www.amfiindia.com/investor-corner/investor-awareness.html",
+    "scheme_name": "General",
+    "document_type": "guide",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  },
+  {
+    "chunk_id": "faq-tax-on-mf",
+    "text": "Taxation of mutual funds in India: For equity funds, Short Term Capital Gains (STCG) on units held less than 1 year are taxed at 15%. Long Term Capital Gains (LTCG) above Rs 1 lakh in a financial year are taxed at 10% without indexation. For debt funds, gains are added to income and taxed at the investor's slab rate. ELSS funds offer tax deduction under Section 80C up to Rs 1.5 lakh per year.",
+    "source_url": "https://www.amfiindia.com/investor-corner/knowledge-center.html",
+    "scheme_name": "General",
+    "document_type": "guide",
+    "category": "general",
+    "scraped_at": "2026-04-19T00:00:00Z"
+  }
+]

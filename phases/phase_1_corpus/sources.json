@@ -1,0 +1,193 @@
+{
+  "sources": [
+    {
+      "id": "hdfc-top100-factsheet",
+      "url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-top-100-fund",
+      "type": "factsheet",
+      "scheme": "HDFC Top 100 Fund",
+      "category": "large-cap",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-top100-sid",
+      "url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-top-100-fund/sid",
+      "type": "sid",
+      "scheme": "HDFC Top 100 Fund",
+      "category": "large-cap",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-top100-kim",
+      "url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-top-100-fund/kim",
+      "type": "kim",
+      "scheme": "HDFC Top 100 Fund",
+      "category": "large-cap",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-flexicap-factsheet",
+      "url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-flexi-cap-fund",
+      "type": "factsheet",
+      "scheme": "HDFC Flexi Cap Fund",
+      "category": "flexi-cap",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-flexicap-sid",
+      "url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-flexi-cap-fund/sid",
+      "type": "sid",
+      "scheme": "HDFC Flexi Cap Fund",
+      "category": "flexi-cap",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-elss-factsheet",
+      "url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-elss-tax-saver",
+      "type": "factsheet",
+      "scheme": "HDFC ELSS Tax Saver",
+      "category": "elss",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-elss-sid",
+      "url": "https://www.hdfcfund.com/mutual-fund/equity/hdfc-elss-tax-saver/sid",
+      "type": "sid",
+      "scheme": "HDFC ELSS Tax Saver",
+      "category": "elss",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-liquid-factsheet",
+      "url": "https://www.hdfcfund.com/mutual-fund/debt/hdfc-liquid-fund",
+      "type": "factsheet",
+      "scheme": "HDFC Liquid Fund",
+      "category": "debt",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-nifty50-factsheet",
+      "url": "https://www.hdfcfund.com/mutual-fund/other/hdfc-index-fund-nifty-50-plan",
+      "type": "factsheet",
+      "scheme": "HDFC Nifty 50 Index Fund",
+      "category": "index",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-faq-general",
+      "url": "https://www.hdfcfund.com/information/faq",
+      "type": "faq",
+      "scheme": "General",
+      "category": "general",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-faq-sip",
+      "url": "https://www.hdfcfund.com/information/faq/sip-related",
+      "type": "faq",
+      "scheme": "General",
+      "category": "general",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-faq-redemption",
+      "url": "https://www.hdfcfund.com/information/faq/redemption-related",
+      "type": "faq",
+      "scheme": "General",
+      "category": "general",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "hdfc-account-statement-guide",
+      "url": "https://www.hdfcfund.com/information/how-to-get-account-statement",
+      "type": "guide",
+      "scheme": "General",
+      "category": "general",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "amfi-investor-knowledge",
+      "url": "https://www.amfiindia.com/investor-corner/knowledge-center.html",
+      "type": "guide",
+      "scheme": "General",
+      "category": "general",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "amfi-investor-awareness",
+      "url": "https://www.amfiindia.com/investor-corner/investor-awareness.html",
+      "type": "guide",
+      "scheme": "General",
+      "category": "general",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "sebi-investor-education-mf",
+      "url": "https://investor.sebi.gov.in/pdf/Mutual%20Fund.pdf",
+      "type": "guide",
+      "scheme": "General",
+      "category": "general",
+      "last_scraped": null,
+      "content_hash": null
+    },
+    {
+      "id": "groww-hdfc-mid-cap-factsheet",
+      "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Mid Cap Fund",
+      "category": "mid-cap",
+      "last_scraped": "2026-04-19T10:43:59.293911+00:00",
+      "content_hash": "02a4df16ac89e097fc4c648f3dd6ee8ec7d9e2636d449f07a82450f80a987bed"
+    },
+    {
+      "id": "groww-hdfc-equity-factsheet",
+      "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Equity Fund",
+      "category": "large-cap",
+      "last_scraped": "2026-04-19T10:44:01.702695+00:00",
+      "content_hash": "e96d53ef4cb773bdf3bb1e92beba4900d4a50faf491c81b2d0c91585cefdf22f"
+    },
+    {
+      "id": "groww-hdfc-focused-factsheet",
+      "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Focused Fund",
+      "category": "focused",
+      "last_scraped": "2026-04-19T10:44:04.018775+00:00",
+      "content_hash": "3a50b1dd94e93ba824a0141bed4d844c52afe5877285a9983c5ffebbfff58a3c"
+    },
+    {
+      "id": "groww-hdfc-elss-factsheet",
+      "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "type": "factsheet",
+      "scheme": "HDFC ELSS Tax Saver Fund",
+      "category": "elss",
+      "last_scraped": "2026-04-19T10:44:06.425949+00:00",
+      "content_hash": "5af70564adb483821babd2a1a27777b3fe81cc991d68429f8eeb1fcc1bf79dc3"
+    },
+    {
+      "id": "groww-hdfc-large-cap-factsheet",
+      "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Large Cap Fund",
+      "category": "large-cap",
+      "last_scraped": "2026-04-19T10:44:08.836121+00:00",
+      "content_hash": "afaf8fea07e0a69619f47d017e53129f465d252682d745aae2954efd5fd4effe"
+    }
+  ]
+}
