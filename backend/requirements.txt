@@ -1,0 +1,30 @@
+# ── Phase 4.0: Scraping & Ingestion ──────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+trafilatura>=1.8.0
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.0
+ftfy>=6.1.0
+
+# ── Phase 4.4: Chunking ─────────────────────────────────
+langchain>=0.1.0
+langchain-text-splitters>=0.0.1
+
+# ── Phase 6: Embeddings ─────────────────────────────────
+# (uses HuggingFace Inference API via requests — no extra deps)
+
+# ── Phase 5: Vector Storage ─────────────────────────────
+chromadb>=0.4.0
+
+# ── Phase 7-9: Backend API ──────────────────────────────
+flask>=3.0.0
+flask-cors>=4.0.0
+flask-limiter>=3.5.0
+gunicorn>=21.2.0
+pydantic>=2.5.0
+
+# ── LLM ─────────────────────────────────────────────────
+groq>=0.4.0
+
+# ── Utilities ───────────────────────────────────────────
+python-dotenv>=1.0.0
