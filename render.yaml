@@ -1,0 +1,53 @@
+services:
+  # Backend API Service
+  - type: web
+    name: wealthwise-backend
+    runtime: python
+    pythonVersion: 3.11
+    rootDir: backend
+    
+    build:
+      command: pip install -r requirements.txt
+    
+    startCommand: python app.py
+    
+    envVars:
+      - key: GROQ_API_KEY
+        scope: all
+      - key: FLASK_ENV
+        value: production
+      - key: PORT
+        value: 5000
+    
+    disk:
+      name: data-volume
+      mountPath: /opt/render/project/backend/data
+      sizeGB: 1
+    
+    preDeployCommand: |
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
+  
+  # Frontend Service
+  - type: web
+    name: wealthwise-frontend
+    runtime: python
+    pythonVersion: 3.11
+    rootDir: frontend
+    
+    build:
+      command: "echo 'Frontend static files ready'"
+    
+    startCommand: python serve.py --port 3000
+    
+    envVars:
+      - key: PORT
+        value: 3000
+    
+    routes:
+      - path: /
+        destination: wealthwise-frontend
+      - path: /chat
+        destination: wealthwise-frontend
+      - path: /api
+        destination: wealthwise-backend
