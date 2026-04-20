@@ -16,6 +16,8 @@ services:
         scope: all
       - key: FLASK_ENV
         value: production
+      - key: FRONTEND_URL
+        value: https://rag-mutual-fund.vercel.app
       - key: PORT
         value: 5000
     

@@ -18,6 +18,7 @@ GROQ_MAX_TOKENS = 300
 # ── Flask ─────────────────────────────────────────────────
 FLASK_ENV = os.environ.get("FLASK_ENV", "development")
 FLASK_SECRET_KEY = os.environ.get("FLASK_SECRET_KEY", "dev-secret-key-change-in-prod")
-
+# ── Frontend URL ──────────────────────────────────────────
+FRONTEND_URL = os.environ.get("FRONTEND_URL", "http://localhost:3000")
 # ── Rate Limiting ─────────────────────────────────────────
 RATE_LIMIT_PER_MINUTE = int(os.environ.get("RATE_LIMIT_PER_MINUTE", "30"))

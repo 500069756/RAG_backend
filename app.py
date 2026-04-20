@@ -16,6 +16,8 @@ from flask_cors import CORS
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 
+from config import FRONTEND_URL
+
 load_dotenv()
 
 
@@ -33,7 +35,7 @@ def create_app() -> Flask:
     app.config["SECRET_KEY"] = os.environ.get("FLASK_SECRET_KEY", "dev-secret-key")
 
     # CORS
-    allowed_origins = os.environ.get("CORS_ORIGINS", "*").split(",")
+    allowed_origins = os.environ.get("CORS_ORIGINS", FRONTEND_URL).split(",")
     CORS(app, origins=allowed_origins, supports_credentials=True)
 
     # Rate Limiting
